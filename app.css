@@ -1,2 +1,12 @@
-<body style="background-color:gray;">  </body>
-
+$ git push
+Counting objects: 5, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 371 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:Frank429/wp2016.git
+   44e3c1f..40b918f  gh-pages -> gh-pages
+   gcobs076761@luffy:/home/wp2016/user/gcobs076761/git/wp2016(gh-pages 0m)
+   $ vi app.css
+   body header {color: blue;}
+   header{color : yellow;}
